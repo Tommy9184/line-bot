@@ -1,3 +1,5 @@
+First commit
+
 <?php
 error_log("callback start.");
 
@@ -103,19 +105,4 @@ function api_get_message_content_request($message_id) {
     file_put_contents("/tmp/{$message_id}", $output);
 }
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  end
